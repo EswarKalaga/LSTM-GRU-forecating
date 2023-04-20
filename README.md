@@ -1,1 +1,1 @@
-# LSTM-GRU-forecating
+# GRU forecasting
